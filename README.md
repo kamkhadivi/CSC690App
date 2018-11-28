@@ -20,3 +20,5 @@ A user creates a household and adds his housemates to it.  The users add chores 
 -Calendar
 -Chore point system
 -Fancy UI
+
+<img width="377" alt="screen shot 2018-11-27 at 6 54 16 pm" src="https://user-images.githubusercontent.com/29413151/49174247-a9d73800-f2fa-11e8-964d-1b5467101006.png">
