@@ -1,7 +1,7 @@
 # CSC690App
-###WhiteBoard
+### WhiteBoard
 
 Project Creator: Kamran Khadivi-Dimbali
 Code Review Hand: Sam Flores
 
-##Proposal
+## Proposal
