@@ -11,17 +11,17 @@ Competitive housing has increased the necessity to have a roommate.  Each additi
 A user creates a household and adds his housemates to it.  The users adds expenses to the app and can customize when it shall be completed by.  This expense can reoccur custom to the need. Notifications are completely customizeable, so you can get multiple reminders a week or one, depending on what you prefer.  Once you complete a payment it will be removed from your queue.  With this system, your life will become organized and you will have your finances at the touch of a button!
 
 # Must Have Features:
--Create Household
--Invite roommates
--Login/Signup
--Expense features: add, due date, frequency, notifications, description, status
--View bills
+-Create Household  
+-Invite roommates  
+-Login/Signup  
+-Expense features: add, due date, frequency, notifications, description, status  
+-View bills  
 
 # Nice to Have Features:
--Calendar
--Reminders
--Activity 
--Fancy UI
+-Calendar  
+-Reminders  
+-Activity   
+-Fancy UI  
 
 <img width="377" alt="screen shot 2018-11-27 at 6 54 16 pm" src="https://user-images.githubusercontent.com/29413151/49174247-a9d73800-f2fa-11e8-964d-1b5467101006.png">
 
