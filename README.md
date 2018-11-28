@@ -23,8 +23,6 @@ A user creates a household and adds his housemates to it.  The users adds expens
 -Activity   
 -Fancy UI  
 
-<img width="377" alt="screen shot 2018-11-27 at 6 54 16 pm" src="https://user-images.githubusercontent.com/29413151/49174247-a9d73800-f2fa-11e8-964d-1b5467101006.png">
-
 <img width="375" alt="screen shot 2018-11-27 at 6 54 44 pm" src="https://user-images.githubusercontent.com/29413151/49174296-cb382400-f2fa-11e8-9d5e-66ed0d20d2a6.png">
 
 <img width="375" alt="screen shot 2018-11-27 at 6 56 01 pm" src="https://user-images.githubusercontent.com/29413151/49174303-d0956e80-f2fa-11e8-8991-38571bea64ad.png">
